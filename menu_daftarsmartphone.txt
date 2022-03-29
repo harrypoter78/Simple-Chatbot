@@ -1,0 +1,8 @@
+Write 'show the spesification of smartphone name' to show the spesification
+1. Apple iPhone 12 Pro Max
+2. Huawei Mate X2
+3. Oppo Find X3 Pro
+4. Samsung Galaxy S21 Ultra 5G
+5. Samsung Galaxy Z Fold2 5G
+6. Vivo X60 Pro+
+7. Xiaomi Mi 11 Ultra

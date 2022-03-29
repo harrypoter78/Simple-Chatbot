@@ -1,0 +1,33 @@
+Samsung Galaxy S21 Ultra 5G Spesification
+Status: Released 2021, January 29
+
+A.Feature
+Network: GSM/CDMA/HSPA/EVDO/LTE/5G
+WLAN: Yes
+Bluetooth: Yes
+GPS: Yes
+NFC: Yes
+Radio: Yes
+Sensors: Fingerprint, accelerometer, gyro, proximity, compass, barometer
+Battery: Li-Ion 5000 mAh, non-removable. Fast charging 25W
+Main Camera: Quad upto 108 MP, Video upto 8K@24fps
+Selfie Camera: 40 MP. Video upto 4K@30/60fps
+
+B.Body
+Dimensions: 6.5 x 2.98 x 0.35 in
+Weight: 227 g
+Build: Gorilla Glass, aluminium frame
+Dust/Water Resistance: Yes
+Screen: Dynamic AMOLED 2X, Corning Gorilla Glass Victus
+Resolution: 1440 x 3200 pixels
+
+C.Platform
+OS: Android 11, One UI 3.1
+Chipset: Exynos 2100 (5 nm)
+CPU: Octa-core
+GPU: Mali-G78 MP14
+Internal: upto 512GB 16GB RAM
+
+D.Misc
+Color: Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, Phantom Brown
+Price: RP12.844.723

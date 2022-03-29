@@ -1,0 +1,33 @@
+Samsung Galaxy Z Fold2 5G Spesification
+Status: Released 2020, September 18
+
+A.Feature
+Network: GSM/CDMA/HSPA/EVDO/LTE/5G
+WLAN: Yes
+Bluetooth: Yes
+GPS: Yes
+NFC: Yes
+Radio: No
+Sensors: Fingerprint, accelerometer, gyro, proximity, compass, barometer
+Battery: Li-Po 4500 mAh, non-removable. Fast charging 25W
+Main Camera: Triple upto 12 MP, Video upto 4K@60fps
+Selfie Camera: 10 MP. Video upto 4K@30fps
+
+B.Body
+Dimensions: Unfolded(159.2 x 128.2 x 6.9 mm), Folded(159.2 x 68 x 16.8 mm)
+Weight: 282 g
+Build: Glass, aluminium frame
+Dust/Water Resistance: Yes
+Screen: Foldable Dynamic AMOLED 2X, Corning Gorilla Glass Victus
+Resolution: 1768 x 2208 pixels
+
+C.Platform
+OS: Android 10, One UI 3.1
+Chipset: Qualcomm SM8250 Snapdragon 865 5G+ (7 nm+)
+CPU: Octa-core
+GPU: Adreno 650
+Internal: upto 512GB 12GB RAM
+
+D.Misc
+Color: PMystic Bronze, Mystic Black, Thom Browne Edition, Aston Martin Racing Edition
+Price: RP23.261.306

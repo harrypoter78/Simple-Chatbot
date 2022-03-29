@@ -1,0 +1,33 @@
+Xiaomi Mi 11 Ultra Spesification
+Status: Released 2021, April 02
+
+A.Feature
+Network: GSM/CDMA/HSPA/EVDO/LTE/5G
+WLAN: Yes
+Bluetooth: Yes
+GPS: Yes
+NFC: Yes
+Radio: No
+Sensors: Fingerprint, accelerometer, gyro, proximity, compass, color spectrum
+Battery: Li-Po 5000 mAh, non-removable. Fast charging 67W
+Main Camera: Quad upto 50 MP, Video upto 8K@24fps
+Selfie Camera: 20 MP. Video upto 1080p@30/60fps
+
+B.Body
+Dimensions: 6.47 x 2.94 x 0.33 in
+Weight: 234 g
+Build: Gorilla Glass, aluminium frame
+Dust/Water Resistance: Yes
+Screen: AMOLED, Corning Gorilla Glass Victus
+Resolution: 1440 x 3200 pixels
+
+C.Platform
+OS: Android 11, MIUI 12.5
+Chipset: Qualcomm SM8350 Snapdragon 888 5G (5 nm)
+CPU: Octa-core
+GPU: Adreno 660
+Internal: upto 512GB 12GB RAM
+
+D.Misc
+Color: Ceramic White (Cosmic White), Ceramic Black (Cosmic Black)
+Price: RP18.663.642

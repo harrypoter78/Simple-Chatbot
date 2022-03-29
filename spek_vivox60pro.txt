@@ -1,0 +1,33 @@
+Vivo X60 Pro+ Spesification
+Status: Released 2021, January 30
+
+A.Feature
+Network: GSM/CDMA/HSPA/LTE/5G
+WLAN: Yes
+Bluetooth: Yes
+GPS: Yes
+NFC: Yes
+Radio: No
+Sensors: Fingerprint, accelerometer, gyro, proximity, compass, color spectrum
+Battery: Li-Po 4200 mAh, non-removable. Fast charging 55W
+Main Camera: Quad upto 50 MP, Video upto 8K@30fps
+Selfie Camera: 32 MP. Video upto 4K@30fps
+
+B.Body
+Dimensions: 6.24 x 2.89 x 0.36 in
+Weight: 191 g
+Build: Glass front, eco leather back, aluminum frame
+Dust/Water Resistance: Yes
+Screen: Super AMOLED, Corning Gorilla Glass Victus
+Resolution: 1080 x 2376 pixels
+
+C.Platform
+OS: Android 11, Funtouch 11.1
+Chipset: Qualcomm SM8350 Snapdragon 888 5G (5 nm)
+CPU: Octa-core
+GPU: Adreno 660
+Internal: upto 256GB 12GB RAM
+
+D.Misc
+Color: Orange, Emperor Blue
+Price: RP16.752.738

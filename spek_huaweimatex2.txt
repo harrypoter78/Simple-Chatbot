@@ -1,0 +1,33 @@
+Huawei Mate X2 Spesification
+Status: Released 2021, February 25
+
+A.Feature
+Network: GSM/CDMA/HSPA/CDMA2000/LTE/5G
+WLAN: Yes
+Bluetooth: Yes
+GPS: Yes
+NFC: Yes
+Radio: No
+Sensors: Fingerprint, accelerometer, gyro, proximity, compass, barometer, color spectrum
+Battery: Li-Po 4500 mAh, non-removable. Fast charging 55W
+Main Camera: Quad upto 50 MP, Video upto 4K@30/60fps
+Selfie Camera: 16 MP. Video upto 1080p@30fps
+
+B.Body
+Dimensions: Unfolded(161.8 x 145.8 x 8.2 mm), Folded(161.8 x 74.6 x 14.7 mm)
+Weight: 295 g
+Build: Glass, aluminium frame
+Dust/Water Resistance: Yes
+Screen: Foldable OLED, Corning Gorilla Glass Victus
+Resolution: 2200 x 2480 pixels
+
+C.Platform
+OS: Android 10, EMUI 11, no Google Play Services
+Chipset: Kirin 9000 5G (5 nm)
+CPU: Octa-core
+GPU: Mali-G78 MP24
+Internal: upto 512GB 8GB RAM
+
+D.Misc
+Color: Black, White, Light Blue, Rose Gold
+Price: RP40.253.805

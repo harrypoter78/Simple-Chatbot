@@ -1,0 +1,33 @@
+Apple iPhone 12 Pro Max Spesification
+Status: Released 2020, November 13
+
+A.Feature
+Network: GSM/CDMA/HSPA/EVDO/LTE/5G
+WLAN: Yes
+Bluetooth: Yes
+GPS: Yes
+NFC: Yes
+Radio: No
+Sensors: Face ID, accelerometer, gyro, proximity, compass, barometer
+Battery: Li-Ion 3687 mAh, non-removable. Fast charging 20W
+Main Camera: Quad upto 12 MP, Video upto 4K@24/30/60fps
+Selfie Camera: 12 MP. Video upto 4K@24/30/60fps
+
+B.Body
+Dimensions: 6.33 x 3.07 x 0.29 in
+Weight: 228 g
+Build: Gorilla Glass, stainless steel frame
+Dust/Water Resistance: Yes
+Screen: Super Retina XDR OLED, Scratch-resistant ceramic glass
+Resolution: 1284 x 2778 pixels
+
+C.Platform
+OS: iOS 14.1
+Chipset: Apple A14 Bionic (5 nm)
+CPU: Hexa-core
+GPU: Apple GPU (4-core graphics)
+Internal: upto 512GB 6GB RAM
+
+D.Misc
+Color: Silver, Graphite, Gold, Pacific Blue
+Price: RP15.215.394

@@ -1,0 +1,33 @@
+Oppo Find X3 Pro Spesification
+Status: Released 2021, March 19
+
+A.Feature
+Network: GSM/CDMA/HSPA/CDMA2000/LTE/5G
+WLAN: Yes
+Bluetooth: Yes
+GPS: Yes
+NFC: Yes
+Radio: No
+Sensors: Fingerprint, accelerometer, gyro, proximity, compass, color spectrum
+Battery: Li-Po 4500 mAh, non-removable. Fast charging 65W
+Main Camera: Quad upto 50 MP, Video upto 4K@30/60fps
+Selfie Camera: 32 MP. Video upto 1080p@30fps
+
+B.Body
+Dimensions: 6.44 x 2.91 x 0.33 in
+Weight: 193 g
+Build: Gorilla Glass, aluminium frame
+Dust/Water Resistance: Yes
+Screen: LTPO AMOLED, Corning Gorilla Glass 5
+Resolution: 1440 x 3200 pixels
+
+C.Platform
+OS: Android 11, ColorOS 11.2
+Chipset: Qualcomm SM8350 Snapdragon 888 5G (5 nm)
+CPU: Octa-core
+GPU: Adreno 660
+Internal: upto 256GB 12GB RAM
+
+D.Misc
+Color: Gloss Black, Blue, White, Cosmic Mocha
+Price: RP12.298.751
